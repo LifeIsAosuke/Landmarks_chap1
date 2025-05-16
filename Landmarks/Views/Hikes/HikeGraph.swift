@@ -5,7 +5,6 @@ Abstract:
 The elevation, heart rate, and pace of a hike plotted on a graph.
 */
 
-
 import SwiftUI
 
 extension Animation {
@@ -80,3 +79,4 @@ func magnitude(of range: Range<Double>) -> Double {
             .frame(height: 200)
     }
 }
+

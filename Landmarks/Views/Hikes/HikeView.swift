@@ -1,11 +1,4 @@
 /*
- See the LICENSE.txt file for this sample’s licensing information.
- 
- Abstract:
- A view displaying information about a hike, including an elevation graph.
- */
-
-/*
 See the LICENSE.txt file for this sample’s licensing information.
 
 Abstract:
@@ -70,3 +63,4 @@ struct HikeView: View {
         Spacer()
     }
 }
+
